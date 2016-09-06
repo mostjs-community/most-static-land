@@ -7,7 +7,7 @@ npm install most-static-land
 ```
 
 ```js
-// modern JavaScritp
+// modern JavaScript
 import Stream from 'most-static-land'
 
 // classic JavaScript
